@@ -1,0 +1,298 @@
+fileFormatVersion: 2
+guid: c539830755a72724d978dbc228cbbc18
+timeCreated: 1480179331
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: monstro2
+    21300002: veggie RPG_1
+    21300004: veggie RPG_2
+    21300006: veggie RPG_3
+    21300008: veggie RPG_4
+    21300010: monstro_attack
+    21300012: veggie RPG_6
+    21300014: veggie RPG_7
+    21300016: veggie RPG_8
+    21300018: veggie RPG_9
+    21300020: veggie RPG_10
+    21300022: monstro1
+    21300024: veggie RPG_12
+    21300026: veggie RPG_13
+    21300028: veggie RPG_14
+    21300030: veggie RPG_15
+    21300032: veggie RPG_16
+    21300034: veggie RPG_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: monstro2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 827
+        width: 458
+        height: 389
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: veggie RPG_1
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 468
+        width: 98
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: veggie RPG_2
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 994
+        width: 702
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: veggie RPG_3
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 691
+        width: 171
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: veggie RPG_4
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 741
+        width: 633
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro_attack
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 558
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: veggie RPG_6
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 513
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: veggie RPG_7
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 406
+        width: 297
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: veggie RPG_8
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 468
+        width: 260
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: veggie RPG_9
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 542
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: veggie RPG_10
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 462
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: monstro1
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 76
+        width: 348
+        height: 288
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: veggie RPG_12
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 64
+        width: 107
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: veggie RPG_13
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 128
+        width: 144
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: veggie RPG_14
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 59
+        width: 52
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: veggie RPG_15
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 45
+        width: 52
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: veggie RPG_16
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 94
+        width: 171
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

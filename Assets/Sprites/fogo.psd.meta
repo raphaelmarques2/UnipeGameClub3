@@ -1,0 +1,269 @@
+fileFormatVersion: 2
+guid: f16ee7fa4f90e96439b9720a46fd11e3
+timeCreated: 1480181289
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: m2
+    21300002: veggie RPG PSD_1
+    21300004: veggie RPG PSD_2
+    21300006: veggie RPG PSD_3
+    21300008: veggie RPG PSD_4
+    21300010: m3
+    21300012: veggie RPG PSD_6
+    21300014: c2
+    21300016: veggie RPG PSD_8
+    21300018: m1
+    21300020: veggie RPG PSD_10
+    21300022: veggie RPG PSD_11
+    21300024: p1
+    21300026: p2
+    21300028: c1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 1
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 0
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: m2
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 827
+        width: 458
+        height: 389
+      alignment: 9
+      pivot: {x: 0.34297168, y: 0.043193433}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: veggie RPG PSD_1
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 468
+        width: 98
+        height: 653
+      alignment: 9
+      pivot: {x: 0.40352958, y: 0.6149675}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: veggie RPG PSD_2
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 994
+        width: 702
+        height: 391
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: veggie RPG PSD_3
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 691
+        width: 171
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: veggie RPG PSD_4
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 741
+        width: 633
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: m3
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 558
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: veggie RPG PSD_6
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 513
+        width: 101
+        height: 101
+      alignment: 9
+      pivot: {x: 0.96913314, y: 0.10471216}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: c2
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 371
+        width: 255
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: veggie RPG PSD_8
+      rect:
+        serializedVersion: 2
+        x: 1634
+        y: 468
+        width: 260
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: m1
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 76
+        width: 348
+        height: 288
+      alignment: 9
+      pivot: {x: 0.3671553, y: 0.043346804}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: veggie RPG PSD_10
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 64
+        width: 107
+        height: 282
+      alignment: 9
+      pivot: {x: 0.55638224, y: 0.91182214}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: veggie RPG PSD_11
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 128
+        width: 144
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: p1
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 59
+        width: 52
+        height: 172
+      alignment: 9
+      pivot: {x: 0.7602985, y: 0.9653269}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: p2
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 45
+        width: 52
+        height: 174
+      alignment: 9
+      pivot: {x: 0.22796161, y: 0.9769508}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: c1
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 94
+        width: 171
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
